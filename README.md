@@ -10,7 +10,7 @@ Contributions are welcome.
 
 First, clone the repository:
 ```bash
-git clone git@github.com:waylonwh/EnergyBalanceModel.jl.git
+git clone git@github.com:waylonwh/Networks.jl.git
 ```
 
 Open Julia from within the local directory of the repo via:
