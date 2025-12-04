@@ -1,2 +1,10 @@
+name = "Networks"
+uuid = "fbb490e7-7007-41a3-a4a2-8c0db0cb3841"
+version = "0.1.0"
+authors = ["Waylon Wu <waylon_wu@outlook.com>"]
+
 [deps]
 EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+
+[compat]
+EzXML = "1.2.3"
