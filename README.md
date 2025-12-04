@@ -22,3 +22,6 @@ The first time, you need to install any dependencies:
 ```julia
 julia> using Pkg; Pkg.instantiate()
 ```
+
+## Usage
+See documentation and examples in the source code for more details.
